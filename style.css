@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    color: #ed1d7e;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #ed1d7e;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #pokemonInfo {
+    margin-top: 20px;
+    width: 300px;
+    display:flexbox;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+  }
+  
+
+  
+  
+  
